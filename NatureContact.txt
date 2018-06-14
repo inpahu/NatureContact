@@ -1,11 +1,18 @@
 
-Nombre del proyecto: Nature contact
+Nombre del proyecto: NatureContact
 
 Grupo: Uninpahu 096
 
 Integrantes:Jairo Humberto Torres
 	    Juan Carlos Castillo
+	    Leonardo Gomez
 
-Descripciòn: 1. dcddfdfdfd
+Descripción: 1.Aplicación móvil para incentivar a la comunidad de la cuidad de bogotá a cuidar los diferentes lugares naturales como parques y humedales.
 
-Funcionalidades: 1. Consulta Informaciòn
+
+Funcionalidades: 1. Consulta información sobre parques y humedales
+		 2. Consulta ubicación humedales y parques
+		 3. Registro Usuarios.
+		 4. Consulta eventos sobre parques y humedales
+		 5. Tips para el cuidado de la naturaleza
+		 6. Notificaciones de eventos.
