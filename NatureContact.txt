@@ -6,6 +6,6 @@ Grupo: Uninpahu 096
 Integrantes:Jairo Humberto Torres
 	    Juan Carlos Castillo
 
-Descripciòn: 1. 
+DescripciÃ²n: 1. dcddfdfdfd
 
-Funcionalidades: 1. Consulta Informaciòn
+Funcionalidades: 1. Consulta InformaciÃ²n
